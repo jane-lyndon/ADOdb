@@ -2,7 +2,7 @@
 
 $ADODB_LANG_ARRAY = array (
 			'LANG'                      => 'en',
-            DB_ERROR                    => 'unknown error',
+            DB_ERROR                    => 'Unknown error',
             DB_ERROR_ALREADY_EXISTS     => 'already exists',
             DB_ERROR_CANNOT_CREATE      => 'can not create',
             DB_ERROR_CANNOT_DELETE      => 'can not delete',
